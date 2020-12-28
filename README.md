@@ -1,4 +1,4 @@
-# MiniC-Compiler
+# MiniCSharpCompiler
 Java, and JavaCC based C# Mini compiler.
 
 This project is a mix between an interpreter and a compiler where code given is analysed using complex regular expressions stored in tokens, and further more compared with the CFGs which define a langauge structure, Nodes are created according to the analysed results and a tree of nodes is creating which is merely the intermediate code to be executed later.
